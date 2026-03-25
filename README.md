@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">If an idea sparks in my head, I love turning it into a working product — from concept to deployment.<br><br>My tech stack revolves around Java, Spring Boot, React, Next.js, Tailwind CSS.<br><br>I enjoy experimenting with new tools and frameworks to sharpen my craft and bring fresh ideas to life.</p>
+<p align="left">If an idea sparks in my head, I love turning it into a working product — from concept to deployment.<br><br>My tech stack revolves around React.js, Next.js, JavaScript (ES6+), Tailwind CSS, HTML5, CSS3, REST APIs, Git, GitHub, Vercel, MySQL<br><br>I enjoy experimenting with new tools and frameworks to sharpen my craft and bring fresh ideas to life.</p>
 
 ###
 
